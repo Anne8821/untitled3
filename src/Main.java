@@ -12,8 +12,8 @@ public class Main {
         System.out.println("Значение переменной d c типом long равно " + d);
         float f = -3.4f;
         System.out.println("Значение переменной f c типом float равно " + f);
-        double e = 1.799999988;
-        System.out.println("Значение переменной e c типом double равно " + e);
+        double g = 1.799999988;
+        System.out.println("Значение переменной e c типом double равно " + g);
 
 
         float k = 27.12f;
